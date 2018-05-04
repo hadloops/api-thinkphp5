@@ -8,7 +8,7 @@ Use ThinkPHP 5.0 create restful api
 * 工具下载地址：[百度网盘下载](https://pan.baidu.com/s/1WDi2yApUyqxazGtLSaEcGQ '百度网盘') 密码：zqd0
 * 使用方法： 
 ```
-git clone git@github.com:RiversCoder/tp5-api.git
+git clone https://github.com/wxhuozhe/api-thinkphp5.git
 cd tp5-api
 ```
 
